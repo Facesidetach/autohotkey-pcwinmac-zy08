@@ -1,4 +1,4 @@
-# 
+# Oficial AutoHotkey plantillas para Mac OS | Personalizado AutoHotkey plantillas para PC Windows. Con gestión de energía y soporte de línea de comandos — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
